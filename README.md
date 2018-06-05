@@ -14,7 +14,7 @@
 
 相关视频
 ========
-[![Watch the video](./GoogleImages-PPT.png)](https://nas-1253532745.cos.ap-shanghai.myqcloud.com/install.wmv)
+[![Watch the video](./GoogleImages-PPT.png)](https://outlien.ilaok.com/install.mp4)
 
 
 wget 下载
