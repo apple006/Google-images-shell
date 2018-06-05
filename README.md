@@ -24,7 +24,7 @@ wget https://raw.githubusercontent.com/coding1618/Google-images-shell/master/Goo
 给你脚本添加执行权限
 ==================
 ```shell
-  chmod +x .//Google_images.sh
+  chmod +x ./Google_images.sh
 ```
 
 好了执行完脚本按照提示操作~Good luck!
