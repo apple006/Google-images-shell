@@ -12,6 +12,11 @@
 
 >花一分钟时间带你搭建属于自己Google
 
+相关视频
+========
+[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
+
+
 
 wget 下载
 =========
