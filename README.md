@@ -29,3 +29,9 @@ wget https://raw.githubusercontent.com/coding1618/Google-images-shell/master/Goo
 
 好了执行完脚本按照提示操作~Good luck!
 ========================
+
+>安装成功之后记得开启防火墙端口哦~
+>或者关闭防火墙，下面是centos7关闭防火墙的命令
+```shell
+systemctl stop firewalld
+```
